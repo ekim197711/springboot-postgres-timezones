@@ -1,0 +1,1 @@
+curl "localhost:8090/api/message?timezone=Europe/Copenhagen"
